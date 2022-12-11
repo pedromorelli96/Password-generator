@@ -1,6 +1,6 @@
 # module 3 - interactive websites / password-generator (SOLO PROJECT)
 
-### Check it out here (deployed on netlify): https://bejewelled-gingersnap-341a98.netlify.app/
+### Check it out here (deployed on netlify): https://jolly-bombolone-082dc2.netlify.app/
 
 <br />
 

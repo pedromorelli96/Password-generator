@@ -1,19 +1,17 @@
-# module 3 - interactive websites / password-generator (SOLO PROJECT)
+![Password Generator Demo Gif](https://raw.githubusercontent.com/pedromorelli96/Password-generator/main/PasswordGenDemo.gif)
 
-### Check it out here (deployed on netlify): https://jolly-bombolone-082dc2.netlify.app/
+# Password Generator
 
-<br />
+The Password Generator is a web-based app that allows users to generate multiple random passwords with combinations of characters from the alphabet, numbers and symbols. It is also possible to select a password size and to copy the randomly generated password to the clipboard with a single click.
 
-# cR9B46Sg
+## 📁 Access the project
 
-## About Scrimba
+### Check it out here: [Click this link to see the project in action](https://jolly-bombolone-082dc2.netlify.app/)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## ✔️ Key learnings
 
--   [Our courses](https://scrimba.com/allcourses)
--   [The Frontend Career Path](https://scrimba.com/learn/frontend)
--   [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+-   `CSS`
+    -   `responsive design`
+-   `Javascript`
+    -   `random number generation`
+    -   `DOM manipulation`

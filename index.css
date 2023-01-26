@@ -73,6 +73,7 @@ h1 {
     border-radius: 6px;
     box-shadow: 0 4px #047857;
     margin-top: 50px;
+    cursor: pointer;
 }
 
 #gen-btn:active {
